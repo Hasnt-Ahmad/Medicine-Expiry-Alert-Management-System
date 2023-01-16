@@ -1,0 +1,12 @@
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\bin\Debug\MEAMS.exe.config
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\bin\Debug\MEAMS.exe
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\bin\Debug\MEAMS.pdb
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.csproj.AssemblyReference.cache
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.csproj.SuggestedBindingRedirects.cache
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.Login.resources
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.Properties.Resources.resources
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.csproj.GenerateResource.cache
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.csproj.CoreCompileInputs.cache
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.exe
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.pdb
+F:\Semester 5\Software Construction And Development Lab\MEAMS\MEAMS\obj\Debug\MEAMS.Dashboard.resources
